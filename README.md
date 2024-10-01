@@ -24,6 +24,11 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 
 ### Program:
 ```
+
+Developed By : KOWSALYA M
+Register Number : 212222230069
+
+
 import cv2
 import numpy as np
 r=cv2.imread('doraemon.jpg',-1)
